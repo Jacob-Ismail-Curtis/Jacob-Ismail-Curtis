@@ -3,7 +3,7 @@
 Download CV [here](https://drive.google.com/file/d/1XFOZewQq0S97otZ1RTPXcJ0ibfyHagX7/view?usp=sharing)
 
 ## About Me
-Hi, I'm Jacob, a programmer from the South West of England. I have recently graduated from Durham University with a Bachelor's degree in Computer Science from Durham University!
+Hi, I'm Jacob, a programmer from the South West of England. I have recently graduated from Durham University with a Bachelor's degree in Computer Science from Durham University.
 
 During my time as an undergraduate, I have found a passion for machine learning and blank. I am also very interested in financial markets and am looking to find opportunities to further explore these two fields and combine them.
 

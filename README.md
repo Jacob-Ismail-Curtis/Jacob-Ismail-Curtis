@@ -39,7 +39,7 @@ Peter Symonds College (2018 - 2020)
 ## Programming Languages
 <center><div>
     <img src="https://img.icons8.com/color/96/000000/python.png" width="96" title="Python"/>
-    <img src="https://icons8.com/icon/J79emsSv2QCu/react" width="96" title="ReactNative"/>
+    <img src="https://img.icons8.com/?size=512&id=J79emsSv2QCu&format=png" width="96" title="ReactNative"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="96" title="JavaScript"/>
 
  </div></center>

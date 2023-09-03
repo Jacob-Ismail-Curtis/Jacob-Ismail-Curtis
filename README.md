@@ -1,6 +1,6 @@
 # Jacob Curtis
 
-Download CV [here](https://drive.google.com/file/d/1XFOZewQq0S97otZ1RTPXcJ0ibfyHagX7/view?usp=sharing)
+Download CV [here](https://drive.google.com/file/d/1RXdgTxCcmIK3UXMZwMFMqwBgzgAAFCT1/view?usp=drive_link)
 
 ## About Me
 👋 Hello! I'm Jacob Curtis, a Computer Science enthusiast with a BSc from Durham University. During my academic journey, I had the opportunity to explore the exciting intersection of technology and innovation.

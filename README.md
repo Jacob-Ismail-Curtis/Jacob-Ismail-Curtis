@@ -3,11 +3,15 @@
 Download CV [here](https://drive.google.com/file/d/1XFOZewQq0S97otZ1RTPXcJ0ibfyHagX7/view?usp=sharing)
 
 ## About Me
-Hi, I'm Jacob, a programmer from the South West of England. I have recently graduated from Durham University with a Bachelor's degree in Computer Science from Durham University.
+👋 Hello! I'm Jacob Curtis, a Computer Science enthusiast with a BSc from Durham University. During my academic journey, I had the opportunity to explore the exciting intersection of technology and innovation.
 
-During my time as an undergraduate, I have found a passion for machine learning and blank. I am also very interested in financial markets and am looking to find opportunities to further explore these two fields and combine them.
+🧠 My final year dissertation at Durham was a Counter-UAV detection system using computer vision (see [here](https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection)). I developed an innovative methodology to generate synthetic IR drone imagery to significantly boost the accuracy of a YOLOv7 model for IR drone detection. It was a rewarding experience that opened my eyes to the boundless potential of AI and its real-world applications.
 
-I am in the process of applying for graduate roles, looking particularly for roles in software development and machine learning, ideally within the FinTech industries.
+🤖 My passion lies in the fields of Artificial Intelligence and Machine Learning. I firmly believe in their capacity to reshape industries, solve complex problems, and drive meaningful change. I am constantly exploring new developments in these areas, building projects and seeking opportunities to grow my knowledge.
+
+🚀 Startups and entrepreneurship also hold a special place in my heart. I am captivated by the dynamic, agile and hands-on nature of startups. My previous experience at SpotGenius, an AI-powered parking detection platform, gave me invaluable insights into the fast-paced startup environment. It was here that I thrived, tackling challenges head-on, and witnessing firsthand the power of collaboration and teamwork.
+
+🌟 I'm on a constant quest for knowledge, looking to connect with like-minded professionals, mentors, and enthusiasts who share my passion for Software Engineering, Machine Learning, startups, and entrepreneurship. Feel free to reach out to me for insightful discussions, networking opportunities, or just a friendly chat. 🌐
 
 ## Education
 
@@ -35,8 +39,8 @@ Peter Symonds College (2018 - 2020)
 ## Programming Languages
 <center><div>
     <img src="https://img.icons8.com/color/96/000000/python.png" width="96" title="Python"/>
+    <img src="https://icons8.com/icon/J79emsSv2QCu/react" width="96" title="ReactNative"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="96" title="JavaScript"/>
-    <img src="https://img.icons8.com/fluency/48/000000/c.png" width="96" title="C"/>
 
  </div></center>
  

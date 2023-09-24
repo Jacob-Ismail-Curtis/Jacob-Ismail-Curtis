@@ -20,7 +20,7 @@ Durham Univesity (2020 - 2023)
 
  - BSc Computer Science - Upper Second Class Honours
 
-**Dissertation:** *Enhancing IR Drone Detection through Synthetic Drone Imagery for Counter-UAV Technology: An Investigation* Final Mark: 76% (High First-Class) (see [here](https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection))
+**Dissertation:** *Enhancing IR Drone Detection through Synthetic Drone Imagery for Counter-UAV Technology: An Investigation*, Final Mark: 76% (High First-Class) (see [here](https://github.com/Jacob-Ismail-Curtis/synthetic-ir-drone-detection))
 
 **3rd Year Modules:** *Multimedia and Game Development, Bioinformatics, Science Enterprise, Codes and Cryptography, Human-AI Interaction Design, Virtual and Augmented Reality.*
 

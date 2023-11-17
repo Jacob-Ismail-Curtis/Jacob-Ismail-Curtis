@@ -11,7 +11,7 @@ Download CV [here](https://drive.google.com/file/d/1RXdgTxCcmIK3UXMZwMFMqwBgzgAA
 
 🚀 Startups and entrepreneurship also hold a special place in my heart. I am captivated by the dynamic, agile and hands-on nature of startups. My previous experience at SpotGenius, an AI-powered parking detection platform, gave me invaluable insights into the fast-paced startup environment. It was here that I thrived, tackling challenges head-on, and witnessing firsthand the power of collaboration and teamwork.
 
-🌟 I'm on a constant quest for knowledge, looking to connect with like-minded professionals, mentors, and enthusiasts who share my passion for Software Engineering, Machine Learning, startups, and entrepreneurship. Feel free to reach out to me for insightful discussions, networking opportunities, or just a friendly chat. 🌐
+🌟 I'm on a constant quest for knowledge, looking to connect with like-minded professionals, mentors, and enthusiasts who share my passion for Software Engineering, AI, startups, and entrepreneurship. Feel free to reach out to me for insightful discussions, networking opportunities, or just a friendly chat. 🌐
 
 ## Education
 

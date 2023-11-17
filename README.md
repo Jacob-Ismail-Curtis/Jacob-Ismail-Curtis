@@ -38,18 +38,18 @@ Peter Symonds College (2018 - 2020)
 
 ## Programming Languages
 <center><div>
-    <img src="https://img.icons8.com/color/96/000000/python.png" width="96" title="Python"/>
-    <img src="https://img.icons8.com/?size=512&id=J79emsSv2QCu&format=png" width="96" title="ReactNative"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="96" title="JavaScript"/>
+    <img src="https://img.icons8.com/color/96/000000/python.png" width="48" title="Python"/>
+    <img src="https://img.icons8.com/?size=512&id=J79emsSv2QCu&format=png" width="48" title="ReactNative"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48 " title="JavaScript"/>
 
  </div></center>
  
  ## Technologies
 <center><div>
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="96" title="PyTorch"/>
-    <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="96" title="Pandas"/>
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" title="PyTorch"/>
+    <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="48" title="Pandas"/>
     <img src="https://scipy.org/images/logo.svg" width="96" title="SciPy"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="96" title="Node.js"/>
-    <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="96" title="NumPy"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" width="96" title="Git"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" title="Node.js"/>
+    <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" width="48" title="NumPy"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="48" title="Git"/>
 </div></center>
